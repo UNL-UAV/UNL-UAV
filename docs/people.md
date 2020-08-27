@@ -4,9 +4,10 @@
 ![](res/img/people/andrew_face.jpg){: style="width:150px"}
 
 ** Andrew Hossack - President **
+
 </center>
 
-Hi Everyone! My name is Andrew Hossack, but some of you might know me as the "UAV Guy" on campus. I am the president of UAV IARC Team, and Secretary of Aerospace for the 20'-21' year. Currently a Junior working towards my B.S. in Computer Engineering, I have a passion in aerospace, IoT, and most things up in space or in the air. Currently I am employed as an E.E. intern at Honeybee Robotics - an awesome company who designs space mechanical and electrical systems! One word of advice is that you can do whatever you put your mind to, you just need to work hard and listen! Shoot for the stars!
+UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer Engineering. Contact me by email at [Ahossack2@unl.edu](mailto:ahossack2@unl.edu).
 
 ---
 

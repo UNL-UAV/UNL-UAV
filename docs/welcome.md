@@ -13,7 +13,7 @@ Most team communication is done through Slack on the UNL Aerospace #uav-general 
 To track progress, a progress management and Kanban board tool, Quire is used.
 
 ### Slack
-To download slack, please visit the [Slack Download Link](https://slack.com/downloads/). After downloading slack, request to join the Aerospace channel at [unlaerospace.slack.com](https://join.slack.com/t/unlaerospace/shared_invite/zt-eotegohj-JnXTsjd_HzOs8unZlq_CmQ) or by sending an email to Andrew Hossack at [andrew_hossack@outlook.com](mailto:andrew_hossack@outlook.com), as noted in [Resources](resources.md). 
+To download slack, please visit the [Slack Download Link](https://slack.com/downloads/). After downloading slack, request to join the Aerospace channel at [unlaerospace.slack.com](https://join.slack.com/t/unlaerospace/shared_invite/zt-eotegohj-JnXTsjd_HzOs8unZlq_CmQ) or by sending an email to one of the club leads on [People](people.md).
 
 After joining the UNL Aerospace slack, request to join the #uav-general channel, and any other UAV specific channel you might be interested in, whether it be hardware, software, etc.
 
@@ -26,6 +26,8 @@ To join the Quire board, use the link [https://quire.io/c/unl_uav](https://quire
 General meetings and subteam specific meetings will be held during the week to update on progress and to work. These meetings will be held in person or over Zoom. To download zoom go to the link here [Zoom Download](https://zoom.us/download).
 
 Zoom meeting invites will be sent out in the slack channel to attend remotely.
+
+***
 
 ## Mission Rules
 
@@ -45,16 +47,14 @@ IARC Mission 9 has challenged us to build and program a fully autonomous aerial 
 
 # Administrative
 
-## Activity Requirements
-
-###Dues
+## Dues
 Dues are $20 and can be directly paid to the club treasurer, or any one of the team leads. Cash is preferred.
 
-###Outreach Requirements
+## Outreach Requirements
 
 This year, due to policies put into effect because of Covid-19, completing the two hours outreach requirements is temporarily not required. Members can and will have the opportunity to participate in outreach events, if desired. This usually entails advertising the Aerospace club at a club fair or volunteering with kids as an aerospace ambassador.
 
-### Lab Safety Trainings
+## Lab Safety Trainings
 Safety training can be completed independently, however, there will be an opportunity to knock out safety training in one sitting. Upon completing safety training, lab access agreement form, and dues, members are granted lab access. 
 
 To complete club safety training, visit this website:  [https://ehs.unl.edu/web-based-training](https://ehs.unl.edu/web-based-training)
@@ -70,10 +70,14 @@ You will be provided material to read for each one and then a quiz to take after
 
 When you receive this email, please forward it to [unl.aerospace.safety.training@gmail.com](mailto:unl.aerospace.safety.training@gmail.com)
 
-### Forms to Submit
+## Forms to Submit
 
 - [Travelers Form](res/pdf/AerospaceTravelerForm.pdf)
 - [Lab Access](res/pdf/COVID_AerospaceLabAccess.pdf)
+
+***
+
+# Other Information
 
 ## Team Structure
 The team is loosely divided into hardware and software. The hardware group is responsible for designing and constructing the drones needed for design decisions. They are responsible for developing the drones’ autonomy, supporting the hardware requirements for the software, and maintaining the telemetry feed. The software group is responsible for developing the on-board computer vision systems that receive commands and transmit parsed images to the operator.
@@ -85,13 +89,13 @@ The UAV team gets its primary funding from two sources: NASA Nebraska and eSAB. 
 ## Travelling
 For Mission 9, IARC is hosting the competition at Front Royal, Virginia. The competition is usually a three days event and occurs during the first few weeks of August. To travel, members must have paid their dues, completed safety training, and completed their outreach requirements.
 
-## Helpful Links
-[IARC website](http://aerialroboticscompetition.org/index.php)
+***
 
-[Mission 9 rules](http://aerialroboticscompetition.org/rules.php)
-
-[Slack desktop app download](https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app)
-
-[UAV website](https://unl-uav.github.io)
-
-[Aerospace website](http://unlaero.space/)
+# Useful Links
+- [UNL Aerospace Website](http://unlaero.space/)
+- [UNL UAV website](https://unl-uav.github.io)
+- [IARC Mission 9 Rules](http://www.aerialroboticscompetition.org/rules.php)
+- [Slack Desktop App Download](https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app)
+- [UNL Aerospace GitHub](https://github.com/UNL-UAV)
+- [UAV Quire](https://quire.io/c/unl_uav)
+- [AUVSI IARC Foundation Website](http://www.aerialroboticscompetition.org/)

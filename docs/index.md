@@ -1,14 +1,11 @@
+<center> <h1>UNL Aerospace UAV IARC Team </h1> </center>
 ![](res/img/home_logo.png)
-
-***
 
 ## Who We Are
 
 UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the UNL Aerospace Student Organization. 
 
 We are focused on designing and building an autonomous drone and payload systems capable of accomplishing the AUVSI IARC Mission 9 directives.
-
-***
 
 ## What is AUVSI IARC
 ![](res/img/iarc_logo.png)
@@ -17,7 +14,6 @@ The Association for Unmanned Vehicle Systems International (AUVSI), the world's 
 
 The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
 
-***
 
 ## Mission 9 Objective
 1. Fly fully autonomous
@@ -34,7 +30,6 @@ A link to the AUVSI IARC Mission 9 rules can be found under the [resources](reso
 ## Joining the Team
 If you are ready to join the team, please reach out to one of our members found on [People](people.md). You will be asked to follow the onboarding process found on the [Getting Started](welcome.md) page.
 
-*** 
 
 ## Contact Us
 If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [People Page](people.md).
