@@ -31,6 +31,16 @@ A link to the AUVSI IARC Mission 9 rules can be found under the [resources](reso
 
 ***
 
+## Joining the Team
+If you are ready to join the team, please reach out to one of our members found on [People](people.md). You will be asked to follow the onboarding process found on the [Getting Started](welcome.md) page.
+
+*** 
+
+## Contact Us
+If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [People Page](people.md).
+
+***
+
 ![](res/img/drones.png)
 
 ## License
