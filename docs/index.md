@@ -1,17 +1,12 @@
 ![](res/img/home_logo.png)
 
+***
 
 ## Who We Are
 
-There are many important sectors of the aerospace industry, and one of the fastest growing and most hyped is that of the 'drone', or more properly, 'unmanned aerial vehicle' or 'system'- a UAV or UAS. With the beginning of the UAV Team, the Aerospace Club has opened up the possibility of projects which are almost entirely software based, bringing the realms of cutting-edge aerospace development directly to students of Computer Science and Computer and Software Engineering at the University of Nebraska-Lincoln.
+UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the UNL Aerospace Student Organization. 
 
-***
-
-## What We Do
-
-The UNL Aerospace UAV IARC Team is comprised into two subteams focused on hardware and software. We aim to accomplish the Mission 9 objectives layed out by AUVSI IARC Mission 9 rules by building an unmanned aerial platform.
-
-![](res/img/drones.png)
+We are focused on designing and building an autonomous drone and payload systems capable of accomplishing the AUVSI IARC Mission 9 directives.
 
 ***
 
@@ -32,9 +27,21 @@ The IARC is the longest running collegiate aerial robotics competition in the wo
 	* Physical obstacles
 4. Conduct the mission successfully (replace the module and return home) under 9 minutes
 
-A link to the AUVSI IARC Mission 9 rules can be found here:  [MISSION 9 RULES](http://www.aerialroboticscompetition.org/rules.php)
+A link to the AUVSI IARC Mission 9 rules can be found under the [resources](resources.md) page.
 
 ***
+
+## Joining the Team
+If you are ready to join the team, please reach out to one of our members found on [People](people.md). You will be asked to follow the onboarding process found on the [Getting Started](welcome.md) page.
+
+*** 
+
+## Contact Us
+If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [People Page](people.md).
+
+***
+
+![](res/img/drones.png)
 
 ## License
 
