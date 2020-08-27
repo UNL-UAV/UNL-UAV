@@ -1,6 +1,5 @@
-![](res/img/home_logo.png)
-
 # UNL Aerospace UAV IARC Team
+![](res/img/home_logo.png)
 
 ## Who We Are
 
