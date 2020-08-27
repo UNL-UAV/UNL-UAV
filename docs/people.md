@@ -17,7 +17,7 @@ UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer
 ** Khawm Mung - Director of Development **
 </center>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Works with the administrative side and team development. Responsible for maintaining budget, membership requirements, and technical details for sponsorship such as NASA NE Space Grant.
 
 ---
 
@@ -38,10 +38,10 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 
 [Website](https://root3287.site)
 
-<marquee>HAHA HTML GO BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR</marquee>
+<marquee>System Adminitration Wizard and Website Maintainer</marquee>
 </center>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Systems administrator and command-line guru. Tim is responsible for maintenance and upkeep of the Ubuntu Server, as well as managing most things internet-connected.
 
 ---
 
