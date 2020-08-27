@@ -10,6 +10,8 @@ Outlined in this page are the basic steps for joining the team.
 
 Most team communication is done through Slack on the UNL Aerospace #uav-general channel. Team meetings will be held either in person or remote or both during the year. To make sure you are the most up to date with current communication, please download Slack and Zoom as outlined below.
 
+To track progress, a progress management and Kanban board tool, Quire is used.
+
 ### Slack
 To download slack, please visit the [Slack Download Link](https://slack.com/downloads/). After downloading slack, request to join the Aerospace channel at [unlaerospace.slack.com](https://join.slack.com/t/unlaerospace/shared_invite/zt-eotegohj-JnXTsjd_HzOs8unZlq_CmQ) or by sending an email to Andrew Hossack at [andrew_hossack@outlook.com](mailto:andrew_hossack@outlook.com), as noted in [Resources](resources.md). 
 
@@ -18,13 +20,12 @@ After joining the UNL Aerospace slack, request to join the #uav-general channel,
 ### Quire
 Quire is the software we use for project tracking. Weekly objective information will be posted to Quire on a Kanban style board.  Learn more about what Quire is [Here](https://www.youtube.com/watch?v=on7ec1ee8CI).
 
-To join the Quire board, use the link [https://quire.io/c/unl_uav](https://quire.io/c/unl_uav) or reach out to a team lead.
+To join the Quire board, use the link [https://quire.io/c/unl_uav](https://quire.io/c/unl_uav) or reach out to a team lead. Quire supports Mac, Windows, and Android and iPhone apps as well.
 
 ### Zoom
 General meetings and subteam specific meetings will be held during the week to update on progress and to work. These meetings will be held in person or over Zoom. To download zoom go to the link here [Zoom Download](https://zoom.us/download).
 
 Zoom meeting invites will be sent out in the slack channel to attend remotely.
----
 
 ## Mission Rules
 
