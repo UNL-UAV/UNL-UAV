@@ -1,12 +1,16 @@
 # Getting Started
 
-Welcome to our team! If you are reading this, it might mean that you are either a potential member or new member of our team.
+Welcome to our team! If you are reading this, it might mean that you are either a potential member or new member of our team. Outlined in this page are the basic steps for joining.
 
-Outlined in this page are the basic steps for joining the team.
+Please note, general meetings are held over Zoom on **Wednesday's at 8:00PM CST** and in **UNL Nebraska Hall W347**.
 
-**For any questions, please check out the [Contact Us](contact.md) page!**
+Join Zoom Meeting
+[https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
+Meeting ID: 986 1496 2923
 
----
+**For any additional questions, please check out the [Contact Us](contact.md) page!**
+
+***
 
 ## Team Communication
 
@@ -45,7 +49,7 @@ IARC Mission 9 has challenged us to build and program a fully autonomous aerial 
 - Avoid physical obstacles
 - Conduct the mission successfully (replace a communication module and return home) under 9 minutes
 
----
+***
 
 # Administrative
 
