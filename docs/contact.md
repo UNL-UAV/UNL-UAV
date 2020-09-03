@@ -19,6 +19,3 @@ For all hardware related questions, please contact Zury Vasquez on [People](peop
 
 
 ***
-
-
-***

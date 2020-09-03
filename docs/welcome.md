@@ -4,23 +4,25 @@ Welcome to our team! If you are reading this, it might mean that you are either 
 
 Outlined in this page are the basic steps for joining the team.
 
+For any questions, please check out the [Contact Us](contact.md) page.
+
 ---
 
 ## Team Communication
 
-Most team communication is done through Slack on the UNL Aerospace #uav-general channel. Team meetings will be held either in person or remote or both during the year. To make sure you are the most up to date with current communication, please download Slack and Zoom as outlined below.
+Most team communication is done through Slack on the UNL Aerospace **#uav-general** channel. Team meetings will be held either in person or remote or both during the year. To make sure you are the most up to date with current communication, please download Slack and Zoom as outlined below.
 
 To track progress, a progress management and Kanban board tool, Quire is used.
 
 ### Slack
-To download slack, please visit the [Slack Download Link](https://slack.com/downloads/). After downloading slack, request to join the Aerospace channel at [unlaerospace.slack.com](https://join.slack.com/t/unlaerospace/shared_invite/zt-eotegohj-JnXTsjd_HzOs8unZlq_CmQ) or by sending an email to one of the club leads on [People](people.md).
+To download slack, please visit the [Slack Download Link](https://slack.com/downloads/). After downloading slack, request to join the Aerospace channel at [unlaerospace.slack.com](https://join.slack.com/t/unlaerospace/shared_invite/zt-eotegohj-JnXTsjd_HzOs8unZlq_CmQ) or by sending an email to one of the club leads on the [Contact Us](contact.md) page.
 
-After joining the UNL Aerospace slack, request to join the #uav-general channel, and any other UAV specific channel you might be interested in, whether it be hardware, software, etc.
+After joining the UNL Aerospace slack, request to join the **#uav-general** channel, and any other UAV specific channel you might be interested in, whether it be hardware, software, etc.
 
 ### Quire
-Quire is the software we use for project tracking. Weekly objective information will be posted to Quire on a Kanban style board.  Learn more about what Quire is [Here](https://www.youtube.com/watch?v=on7ec1ee8CI).
-
 To join the Quire board, use the link [https://quire.io/c/unl_uav](https://quire.io/c/unl_uav) or reach out to a team lead. Quire supports Mac, Windows, and Android and iPhone apps as well.
+
+Quire is the software we use for project tracking. Weekly objective information will be posted to Quire on a Kanban style board.  Learn more about what Quire is [Here](https://www.youtube.com/watch?v=on7ec1ee8CI).
 
 ### Zoom
 General meetings and subteam specific meetings will be held during the week to update on progress and to work. These meetings will be held in person or over Zoom. To download zoom go to the link here [Zoom Download](https://zoom.us/download).
@@ -48,7 +50,7 @@ IARC Mission 9 has challenged us to build and program a fully autonomous aerial 
 # Administrative
 
 ## Dues
-Dues are $20 and can be directly paid to the club treasurer, or any one of the team leads. Cash is preferred.
+Dues are $20 and can be directly paid to the club treasurer, or any one of the team leads. Contact Khawm Mung on the [People](people.md) page. Cash is preferred.
 
 ## Outreach Requirements
 
