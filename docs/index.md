@@ -1,7 +1,7 @@
 <center> <h1>UNL Aerospace UAV IARC Team </h1> </center>
 ![](res/img/home_logo.png)
 
-## Who We Are
+# Who We Are
 
 UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the UNL Aerospace Student Organization. 
 
