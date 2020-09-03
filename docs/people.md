@@ -1,5 +1,6 @@
 # People
 
+## Admins
 <center>
 ![](res/img/people/andrew_face.jpg){: style="width:150px"}
 
@@ -9,7 +10,6 @@
 
 UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer Engineering. Contact by email at [Ahossack2@unl.edu](mailto:ahossack2@unl.edu).
 
-<hr>
 
 <center>
 ![](res/img/people/mung_face.jpg){: style="width:150px"}
@@ -19,7 +19,9 @@ UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer
 
 Works with the administrative side and team development. Responsible for maintaining budget, membership requirements, and technical details for sponsorship such as NASA NE Space Grant. Contact by email at [khawm.mung@huskers.unl.edu](mailto:khawm.mung@huskers.unl.edu).
 
-<hr>
+***
+
+## Leads and Members
 
 <center>
 ![](res/img/people/gerson_face.png){: style="width:150px"}
@@ -29,7 +31,6 @@ Works with the administrative side and team development. Responsible for maintai
 
 Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work with the software team to develop software that will be on the companion computer, controlling the UAS. Currently doing research at Nimbus Labs on campus. I want to go to med school but am passionate about technology and computers. I enjoy working on software and doing research. Contact by email at [gersongru@huskers.unl.edu](mailto:gersongru@huskers.unl.edu).
 
-<hr>
 
 <center>
 ![](res/img/people/timothy_face.png){: style="width:150px"}
@@ -43,7 +44,6 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 
 Systems administrator and command-line guru. Tim is responsible for maintenance and upkeep of the Ubuntu Server, as well as managing most things internet-connected.
 
-<hr>
 
 <center>
 ![](res/img/people/kashyap_face.png){: style="width:150px"}
