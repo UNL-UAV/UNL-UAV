@@ -4,7 +4,7 @@ Welcome to our team! If you are reading this, it might mean that you are either 
 
 Outlined in this page are the basic steps for joining the team.
 
-For any questions, please check out the [Contact Us](contact.md) page.
+**For any questions, please check out the [Contact Us](contact.md) page!**
 
 ---
 
@@ -49,6 +49,8 @@ IARC Mission 9 has challenged us to build and program a fully autonomous aerial 
 
 # Administrative
 
+**Unless specified, all forms should be send via email to one of the team leads from the [Contact Us](contact.md) page!**
+
 ## Dues
 Dues are $20 and can be directly paid to the club treasurer, or any one of the team leads. Contact Khawm Mung on the [People](people.md) page. Cash is preferred.
 
@@ -86,7 +88,7 @@ The team is loosely divided into hardware and software. The hardware group is re
 
 
 ## Funding
-The UAV team gets its primary funding from two sources: NASA Nebraska and eSAB. NASA Nebraska is the largest source of funding, usually granting us between $6,500 - $8,000 each year. This year the grant award amount is capped at $7000. eSAB funding is reimburse-only, meaning members would need to make the initial purchase and then get reimbursed for the amount later.. We are usually granted between $3,750 - $5,000 from eSAB.
+The UAV team gets its primary funding from two sources: NASA Nebraska and eSAB. NASA Nebraska is the largest source of funding, usually granting us between $6,500 - $8,000 each year. This year the grant award amount is capped at $7000. eSAB funding is reimburse-only, meaning members would need to make the initial purchase and then get reimbursed for the amount later. We are usually granted between $3,750 - $5,000 from eSAB.
 
 ## Travelling
 For Mission 9, IARC is hosting the competition at Front Royal, Virginia. The competition is usually a three days event and occurs during the first few weeks of August. To travel, members must have paid their dues, completed safety training, and completed their outreach requirements.
