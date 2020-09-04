@@ -11,7 +11,7 @@ We are focused on designing and building an autonomous drone and mechanical robo
 
 ## Getting Involved
 
-General meetings are held over Zoom on **Wednesday's at 8:00PM CST** and in **Nebraska Hall W347**.
+UAV Team General meetings are held over Zoom on **Wednesday's at 8:00PM CST** and in **Nebraska Hall W347**. The UNL Aerospace Club Lab is located at **Nebraska Hall W127**.
 
 Join Zoom Meeting
 [https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
