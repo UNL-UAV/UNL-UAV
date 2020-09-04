@@ -9,18 +9,18 @@
 
 ***
 
-## Slack
+### Slack
 To join our slack contact me at [andrew_hossack@outlook.com](mailto:andrew_hossack@outlook.com)
 
 ***
 
-# Creating Documention
+## Creating Documention
 
 This is a useful guide on how to start writing documentation. We will be using git to control what information get in and what information doesn't get in.
 
 ***
 
-## Novice
+### Novice
 This is indended for people who is less technical about git and github. Just want to publish an documentation. Here is how to do it.
 
 1. Go to [GitHub](https://github.com)
@@ -36,7 +36,7 @@ This is indended for people who is less technical about git and github. Just wan
 
 ***
 
-## Advanced
+### Advanced
 This is for the people who want to get done now and knows git/github.
 
 1. Login to Github
