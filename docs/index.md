@@ -3,7 +3,7 @@
 
 # Who We Are
 
-UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the UNL Aerospace Student Organization. 
+UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the [UNL Aerospace Student Organization](http://unlaero.space/). 
 
 We are focused on designing and building an autonomous drone and mechanical robotic manipulation payload systems capable of accomplishing the AUVSI IARC Mission 9 directives.
 
@@ -16,6 +16,8 @@ UAV Team General meetings are held over Zoom on **Wednesday's at 8:00PM CST** an
 Join Zoom Meeting
 [https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
 Meeting ID: 986 1496 2923
+
+[![https://unl.zoom.us/j/98614962923](res/img/join_button.png)](https://unl.zoom.us/j/98614962923)
 
 If you would like to join the team, please reach out to one of our members ont the [Contact Us](contact.md) page. 
 

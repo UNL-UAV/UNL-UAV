@@ -39,6 +39,8 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 
 My name is Zury and in a senior electrical engineering student. I work as a hardware lead on the Aerospace UAV team. I love learning about technology and enjoy exploring. Contact by email at [25zvasquez@gmail.com](mailto:25zvasquez@gmail.com).
 
+***
+
 ## Members
 
 <center>
