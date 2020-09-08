@@ -8,24 +8,22 @@ For all general questions, please contact [Andrew Hossack](../people/#andrew-hos
 
 ***
 
-## Subteam Group Contact 
-
-### Software
+## Software
 [Gerson Uriarte](../people/#gerson-uriarte-software-team-lead)
 
 ***
 
-### Hardware
+## Hardware
 [Zury Vasquez](../people/#zury-vasquez-hardware-team-lead)
 
 ***
 
-### Electrical
-Ryan Karl at [ryan.c.karl@gmail.com](mailto:ryan.c.karl@gmail.com)
+## Electrical
+[Ryan Karl](../people/#ryan-karl-electrical-team-lead)
 
 ***
 
-### Systems Engineering
-Grace Becker at [grace.becker@huskers.unl.edu](mailto:grace.becker@huskers.unl.edu)
+## Systems Engineering
+[Grace Becker](../people/#grace-becker-systems-engineering)
 
 ***
