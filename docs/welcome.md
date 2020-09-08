@@ -7,6 +7,7 @@ Please note, general meetings are held over Zoom on **Wednesday's at 8:00PM CST*
 Join Zoom Meeting
 [https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
 Meeting ID: 986 1496 2923
+[![https://unl.zoom.us/j/98614962923](res/img/join_button.png)](https://unl.zoom.us/j/98614962923)
 
 **For any additional questions, please check out the [Contact Us](contact.md) page!**
 

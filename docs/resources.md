@@ -9,11 +9,6 @@
 
 ***
 
-### Slack
-To join our slack contact me at [andrew_hossack@outlook.com](mailto:andrew_hossack@outlook.com)
-
-***
-
 ## Creating Documention
 
 This is a useful guide on how to start writing documentation. We will be using git to control what information get in and what information doesn't get in.
