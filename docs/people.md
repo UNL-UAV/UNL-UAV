@@ -60,6 +60,17 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 
 My name is Zury and in a senior electrical engineering student. I work as a hardware lead on the Aerospace UAV team. I love learning about technology and enjoy exploring. Contact by email at [25zvasquez@gmail.com](mailto:25zvasquez@gmail.com).
 
+
+<center>
+
+### ** Ryan Karl - Electrical Team Lead **
+
+![](res/img/people/ryan_face.jpg){: style="width:150px"}
+
+</center>
+
+Ryan is a sophomore electrical engineer at the University of Nebraska-Lincoln. He is the electrical lead for the UAV team. The electrical team is responsible for providing power to all systems of the UAV. This team also designs subsystems to fulfill requirements for the competition. Contact by email at [rkarl2@huskers.unl.edu](mailto:rkarl2@huskers.unl.edu).
+
 ***
 
 ## Members
