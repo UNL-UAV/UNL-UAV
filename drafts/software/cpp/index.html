@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../../img/favicon.ico">
+  <title>C++ - Home - UNL UAV</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../../css/theme.css" />
+  <link rel="stylesheet" href="../../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "C++";
+    var mkdocs_page_input_path = "drafts/software/cpp.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../../.." class="icon icon-home"> Home - UNL UAV</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../..">Home</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">About Us</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../welcome/">Getting Started</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../people/">People</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../teams/">Teams</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../contact/">Contact Us</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">More Info</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../resources/">Resources</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../../credits/">Credits</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../../..">Home - UNL UAV</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../../..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>C++</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="c">C++</h1>
+<p>The whole project will be based around C++. C++ is a fast language, but it's also very complicated. By using this tutorial you will have the basics of C++ down. This whole tutorial is based heavily upon some java experiances. Contact a software team lead if you have trouble understanding a concept.</p>
+<h2 id="learn-c-via-videos">Learn C++ via videos</h2>
+<p>This whole documentation is just a dumbed down version of what c++ entails. There is more resources and more concepts behind everything. I recommend that if you get stuck on something checkout the C++ videos by <a href="youtube.com/TheChernoProject">TheCherno</a>. As the guy make pretty good in-depth explination on each concept. You can checkout their C++ playlist <a href="https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb">here</a>.</p>
+<h2 id="compiler">Compiler</h2>
+<p>C++ is a compiled language meaning that there is a program that sits in front of your source code. That program take in file and output an executable. On GNU/Linux we it would be most likely be g++. There are other programs like catkin, make, premake. Whose job is to generate project files and structure your projects. With ROS we will be using catkin, which is a dirivative of make.</p>
+<h2 id="pre-proccessing">Pre-Proccessing</h2>
+<p>In C++ they have an feature called pre-procesing. That will execute before compile-time. These woule be our common <code>#include</code> or <code>#pragma once</code>.</p>
+<p><code>#include</code> basically copy and paste a file into the current file. We will be using this a lot because in source files we need to refrence our header file for our code and other header files. We can say this is our <code>import</code> statment in java. </p>
+<p><code>#pragma once</code> is called an header guard. This basically prevent copying your declairation twice. It will solve some of the errors with C++. In the old days we would have to do somthing like </p>
+<pre><code class="c++">#ifndef _CLASS
+#define _CLASS
+
+/** YOUR H File HERE */
+
+#endif
+</code></pre>
+
+<h2 id="headers">Headers</h2>
+<p>Headers are one of the file types you find in C++. They contain the declaration of your code. In short it says there exists a function/class/method. That has these parmeters. These files are typically ends with a .h or .hpp.</p>
+<h2 id="source-files">Source Files</h2>
+<p>Source files are files that contain the body of the function. These are typically in .c or .cpp files.</p>
+<h2 id="data-types">Data types</h2>
+<p>We have all the common data types from java</p>
+<ul>
+<li>bool - Boolean</li>
+<li>char - Character</li>
+<li>int - Integer</li>
+<li>float - Floating point</li>
+<li>double - Double Percision Floating Point</li>
+<li>void - valueless</li>
+</ul>
+<p>We have modifiers that change the data type.</p>
+<ul>
+<li>signed - positive and negative values</li>
+<li>unsigned - only positive values</li>
+<li>short - reduced size</li>
+<li>long - increased size;</li>
+</ul>
+<p>Here is a table with <em>most</em> of the primitive data types</p>
+<table>
+<thead>
+<tr>
+<th>Data Type</th>
+<th>Width</th>
+<th>Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>char</td>
+<td>1 byte</td>
+<td>-127-127 or 0-255</td>
+</tr>
+<tr>
+<td>unsigned char</td>
+<td>1 byte</td>
+<td>0-255</td>
+</tr>
+<tr>
+<td>signed char</td>
+<td>1 byte</td>
+<td>-127-127</td>
+</tr>
+<tr>
+<td>int</td>
+<td>4 bytes</td>
+<td>-2147483648 - 2147483647</td>
+</tr>
+<tr>
+<td>unsigned int</td>
+<td>4 bytes</td>
+<td>0 to 4294967295</td>
+</tr>
+<tr>
+<td>singed int</td>
+<td>4 bytes</td>
+<td>-2147483648 - 2147483647</td>
+</tr>
+<tr>
+<td>short int</td>
+<td>2 bytes</td>
+<td>-32768 - 32767</td>
+</tr>
+<tr>
+<td>unsigned short int</td>
+<td>2 bytes</td>
+<td>0 to 65535</td>
+</tr>
+<tr>
+<td>signed short int</td>
+<td>2 bytes</td>
+<td>-32768 - 32767</td>
+</tr>
+<tr>
+<td>long int</td>
+<td>8 bytes</td>
+<td>-2147483648 - 2147483647</td>
+</tr>
+<tr>
+<td>signed long int</td>
+<td>8 bytes</td>
+<td>same as long int</td>
+</tr>
+<tr>
+<td>unsigned long int</td>
+<td>8 bytes</td>
+<td>0 - 4294967295</td>
+</tr>
+<tr>
+<td>long long int</td>
+<td>8 bytes</td>
+<td>-(2^63) - (2^63)-1</td>
+</tr>
+<tr>
+<td>unsigned long long int</td>
+<td>8 bytes</td>
+<td>0 - 18446744073709551615</td>
+</tr>
+<tr>
+<td>float</td>
+<td>4 bytes</td>
+<td></td>
+</tr>
+<tr>
+<td>double</td>
+<td>8 bytes</td>
+<td></td>
+</tr>
+<tr>
+<td>long double</td>
+<td>12 bytes</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>We can use the <code>sizeof()</code> operator to get the size in bytes. For example <code>sizeof(int)</code> would output 4. While <code>sizeof(varible)</code> will output the size of the varible.</p>
+<h2 id="pointers">Pointers</h2>
+<p>One of the most important data type in C++ is pointers. Pointers can be very complicated, but all you need to know is that <code>a pointer is just a varible that holds a memory address</code>. That's it. To get a pointer type we can use the memory address operator <code>&amp;</code>. Then to decode that memory address we can use the derefrence operator <code>*</code>. See Example (Pointers-1)</p>
+<p>We can also declare arrays as a pointer to the first object. See Example (Pointers-2). One of the pitfalls of having a pointer as an array type is that you don't know the size of the array. You may run in to a segmentation fault. That's why we pass though the size of the array. Take a look at the main function in Example (Pointers-2)</p>
+<p>Pointers-1</p>
+<pre><code class="c++">#include &quot;pch.hpp&quot;
+int main(){
+    int i = 3287;
+    int* pI = &amp;i; // Pointer to I. This contain the memory address of I
+
+    std::cout &lt;&lt; *(pI) &lt;&lt; std::endl // Dereference the pointer and print out the value at I.
+}
+</code></pre>
+
+<p>Pointers-2</p>
+<pre><code class="c++">#include &quot;pch.hpp&quot;
+int main(char* argv, int argc){
+    int array[] = {3,2,8,7,9};
+    int* pArray = array;
+
+    const char* str = &quot;Hello World&quot;; // A string is just a const char pointer. Other also known as a character array.
+}
+</code></pre>
+
+<h2 id="references">References</h2>
+<p>Like pointers, references are alias to the actual varibles. We use it when we want to modify the original data (to prevent copying). See Example (References-1). A reference must be instaciated.</p>
+<p>References-1</p>
+<pre><code class="c++">#include &quot;pch.hpp&quot;
+void modifyString(std::string str){
+    str + &quot; bar&quot;;
+}
+
+void modifyStringRef(std::string&amp; str){
+    str+&quot; bar&quot;
+}
+
+int main(){
+    std::string var = &quot;foo&quot;;
+    modifyString(var);
+    std::cout &lt;&lt; var &lt;&lt; std::endl; // will just print out &quot;foo&quot;
+
+    modifyStringRef(var);
+    std::cout &lt;&lt; var &lt;&lt; std::endl; // will print out &quot;foo bar&quot;
+}
+</code></pre>
+
+<h2 id="scopes">Scopes</h2>
+<p>In general, the scope is defined as the extent up to which something can be worked with. In programming also the scope of a variable is defined as the extent of the program code within which the variable can we accessed or declared or worked with.</p>
+<h3 id="stack">Stack</h3>
+<p>e allocation happens on contiguous blocks of memory. We call it stack memory allocation because the allocation happens in function call stack. The size of memory to be allocated is known to compiler and whenever a function is called, its variables get memory allocated on the stack. And whenever the function call is over, the memory for the variables is deallocated. This all happens using some predefined routines in compiler. Programmer does not have to worry about memory allocation and deallocation of stack variables. The stack has very little space (Appox 1MB).</p>
+<h3 id="heap">Heap</h3>
+<p>The memory is allocated during execution of instructions written by programmers. Note that the name heap has nothing to do with heap data structure. It is called heap because it is a pile of memory space available to programmers to allocated and de-allocate. If a programmer does not handle this memory well, memory leak can happen in the program.</p>
+<h2 id="objects">Objects</h2>
+<p>C++ is a Object Orientated Language. It's layed out like Java, but it have the ability to be turned functional programming (C/Python).</p>
+<p>To instanciate a class you can use the following format to start on the stack:</p>
+<pre><code class="c++">Foo f();
+// or
+Foo f;
+</code></pre>
+
+<p>To instaciate a class on the heap you can use the following format.</p>
+<pre><code class="c++">Foo* f = new Foo();
+// Processing
+delete f; // Every time we call new we call delete. Otherwise we get a memory leak. Memory leak is bad.
+</code></pre>
+
+<h3 id="class">Class</h3>
+<p>A class is an object that has visiblity. The main components of a class is it's member varibles, member functions, constructors, destructor.</p>
+<h4 id="constructor">Constructor</h4>
+<p>Constructors is a function that get executed to set up the object once instanciated.</p>
+<h4 id="member-varibles">Member Varibles</h4>
+<p>These are varibles that is owned by the class.</p>
+<h4 id="member-functions">Member functions</h4>
+<p>These are functions that is owned by the class. They define the behaviour of the class.</p>
+<h4 id="destructor">Destructor</h4>
+<p>This is a function that will get called when a class need to be destroyed.</p>
+<p>Here is an example on laying out your class in a header file.</p>
+<p>Foo.hpp:</p>
+<pre><code class="c++">#pragma once
+#include &lt;string&gt;
+
+class Foo{
+private:
+    int _i1;
+    std::string _bar;
+
+    static int _COUNT;
+public:
+    Foo(); // Constructor
+    void foo();
+    void bar();
+    inline int getI1() const { return _i1;};
+    inline std::string&amp; getBar() {return _bar;};
+    ~Foo(); // Destructor
+private:
+};
+</code></pre>
+
+<p>Foo.cpp</p>
+<pre><code class="c++">#include &quot;Foo.hpp&quot;
+
+static int Foo::_COUNT = 0;
+
+Foo::Foo(){
+    // Implement Constructor
+}
+
+void Foo::foo(){
+    // Implement Foo
+}
+
+void Foo::bar(){
+    // Implement bar
+}
+
+Foo::~Foo(){
+    // Implment Destructor
+}
+</code></pre>
+
+<h3 id="structs">Structs</h3>
+<p>Another type of object is called a struct. A struct is just a class with no visibility at all(all public)</p>
+<pre><code class="c++">struct config{
+    std::string name;
+    float fov;
+    //...
+}
+</code></pre>
+
+<h2 id="inheratence">Inheratence</h2>
+<p>TODO</p>
+<h2 id="other">Other</h2>
+              
+            </div>
+          </div>
+<footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+      <p>UNL-UAV &copy; </p>
+    
+
+    
+      Updated 2020-09-08
+    
+
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+      
+    </span>
+</div>
+    <script>var base_url = '../../..';</script>
+    <script src="../../../js/theme.js" defer></script>
+      <script src="../../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
