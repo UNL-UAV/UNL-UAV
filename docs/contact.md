@@ -9,13 +9,24 @@ For all general questions, please contact Andrew Hossack or Khawm Mung on [Peopl
 
 ***
 
-## Software
-For all software related questions, please contact Gerson Uriarte on [People](people.md).
+## Subteam Group Contact 
+
+### Software
+[Gerson Uriarte](../people/#gerson-uriarte-software-team-lead)
 
 ***
 
-## Hardware
-For all hardware related questions, please contact Zury Vasquez on [People](people.md).
+### Hardware
+[Zury Vasquez](../people/#gerson-uriarte-software-team-lead).
 
+***
+
+### Electrical
+For all electrical related questions, please contact Ryan Karl on [People](people.md).
+
+***
+
+### Systems Engineering
+Grace Becker
 
 ***
