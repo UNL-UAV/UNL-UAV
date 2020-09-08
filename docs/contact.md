@@ -1,5 +1,4 @@
 # Contact Us
-***
 
 ## General Questions
 For all general questions, please contact Andrew Hossack or Khawm Mung on [People](people.md).
@@ -17,16 +16,16 @@ For all general questions, please contact Andrew Hossack or Khawm Mung on [Peopl
 ***
 
 ### Hardware
-[Zury Vasquez](../people/#gerson-uriarte-software-team-lead).
+[Zury Vasquez](../people/#zury-vasquez-hardware-team-lead)
 
 ***
 
 ### Electrical
-For all electrical related questions, please contact Ryan Karl on [People](people.md).
+Ryan Karl at [ryan.c.karl@gmail.com](mailto:ryan.c.karl@gmail.com)
 
 ***
 
 ### Systems Engineering
-Grace Becker
+Grace Becker at [grace.becker@huskers.unl.edu](mailto:grace.becker@huskers.unl.edu)
 
 ***

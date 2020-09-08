@@ -21,7 +21,7 @@ Works with the administrative side and team development. Responsible for maintai
 
 ***
 
-## Leads and Members
+## Team Leads
 
 <center>
 ![](res/img/people/gerson_face.png){: style="width:150px"}
@@ -38,6 +38,8 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 </center>
 
 My name is Zury and in a senior electrical engineering student. I work as a hardware lead on the Aerospace UAV team. I love learning about technology and enjoy exploring. Contact by email at [25zvasquez@gmail.com](mailto:25zvasquez@gmail.com).
+
+## Members
 
 <center>
 ![](res/img/people/timothy_face.png){: style="width:150px"}
