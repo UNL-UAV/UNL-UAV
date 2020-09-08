@@ -1,7 +1,7 @@
 # Contact Us
 
 ## General Questions
-For all general questions, please contact Andrew Hossack or Khawm Mung on [People](people.md).
+For all general questions, please contact [Andrew Hossack](../people/#andrew-hossack-president) or [Khawm Mung](../people/#khawm-mung-director-of-development)
 
 **[Questions can also be sent through the Google Feedback form Here (slower response time)](https://forms.gle/Uq6AzkA6VyCZFF5aA)
 **

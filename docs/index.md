@@ -50,7 +50,7 @@ The IARC is the longest running collegiate aerial robotics competition in the wo
 ***
 
 ## Contact Us
-If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [People Page](people.md).
+If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [Contact Page](contact.md) or [People Page](people.md).
 
 ***
 
