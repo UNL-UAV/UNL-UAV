@@ -24,6 +24,15 @@ Works with the administrative side and team development. Responsible for maintai
 ## Leads and Members
 
 <center>
+![](res/img/people/grace_becker.png){: style="width:150px"}
+
+** Grace Becker - Lead Systems Engineer **
+
+</center>
+
+Grace is a senior getting her bachelor’s in civil engineering. As the Systems Engineer, she bridges the gap between software and hardware; making sure both teams are adhering to criteria and constraints and creating designs and architecture that are realistic to integrate and execute. She also pushes the schedule to make sure design milestones are met at a pace that shows progress. Contact by email at [grace.becker@huskers.unl.edu](mailto:grace.becker@huskers.unl.edu).
+
+<center>
 ![](res/img/people/gerson_face.png){: style="width:150px"}
 
 ** Gerson Uriarte - Software Team Lead **
