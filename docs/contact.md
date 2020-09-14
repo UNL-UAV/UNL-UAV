@@ -1,10 +1,16 @@
 # Contact Us
 
 ## General Questions
-For all general questions, please contact [Andrew Hossack](../people/#andrew-hossack-president) or [Khawm Mung](../people/#khawm-mung-director-of-development)
+
+Please email [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Website Questions) for all general questions.
 
 **[Questions can also be sent through the Google Feedback form Here (slower response time)](https://forms.gle/Uq6AzkA6VyCZFF5aA)
 **
+
+***
+
+## Administrative
+[Andrew Hossack](../people/#andrew-hossack-president)
 
 ***
 
