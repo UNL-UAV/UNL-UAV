@@ -25,4 +25,5 @@ plugins:
   - search
   - git-revision-date:
       as_datetime: true
+
 dev_addr: 127.0.0.1:8080
