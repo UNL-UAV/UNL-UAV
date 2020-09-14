@@ -76,9 +76,7 @@
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
     {%- block site_name %}
-        <!-- <a href="{{ nav.homepage.url|url }}" class="icon icon-home"> {{ config.site_name }}</a> -->
-        <a href="{{ nav.homepage.url|url }}" class='img/favicon.svg'> {{ config.site_name }}</a>
-        <!-- <link rel="shortcut icon" href="{{ 'img/favicon.svg'|url }}"> -->
+        <a href="{{ nav.homepage.url|url }}" class="icon icon-home"> {{ config.site_name }}</a>
 	  {%- endblock %}
 	  {%- block search_button %}
         {% if 'search' in config['plugins'] %}{% include "searchbox.html" %}{% endif %}
