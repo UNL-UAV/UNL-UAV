@@ -2,13 +2,14 @@ site_name: Home - UNL UAV
 
 nav:
   - Home: index.md
-  - Getting Started: welcome.md
-  - Onboarding: onboarding.md
-  - Teams: teams.md
-  - People: people.md
-  - Creating Documentation: creating_docs.md
-  - Resources: resources.md
-  - Credits: credits.md
+  - About Us:
+    - Getting Started: welcome.md
+    - People: people.md
+    - Teams: teams.md
+  - More Info:
+    - Contact Us: contact.md
+    - Resources: resources.md
+    - Credits: credits.md
 
 theme:
   name: readthedocs

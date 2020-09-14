@@ -1,26 +1,25 @@
+<center> <h1>UNL Aerospace UAV IARC Team </h1> </center>
 ![](res/img/home_logo.png)
 
+# Who We Are
 
-## Who We Are
+UNL Aerospace UAV IARC Team, known as UNL UAV, is a student-led design team operating under the [UNL Aerospace Student Organization](http://unlaero.space/). 
 
-There are many important sectors of the aerospace industry, and one of the fastest growing and most hyped is that of the 'drone', or more properly, 'unmanned aerial vehicle' or 'system'- a UAV or UAS. With the beginning of the UAV Team, the Aerospace Club has opened up the possibility of projects which are almost entirely software based, bringing the realms of cutting-edge aerospace development directly to students of Computer Science and Computer and Software Engineering at the University of Nebraska-Lincoln.
-
-***
-
-## What We Do
-
-The UNL Aerospace UAV IARC Team is comprised into two subteams focused on hardware and software. We aim to accomplish the Mission 9 objectives layed out by AUVSI IARC Mission 9 rules by building an unmanned aerial platform.
-
-![](res/img/drones.png)
+We are focused on designing and building an autonomous drone and mechanical robotic manipulation payload systems capable of accomplishing the AUVSI IARC Mission 9 directives.
 
 ***
 
-## What is AUVSI IARC
-![](res/img/iarc_logo.png)
+## Getting Involved
 
-The Association for Unmanned Vehicle Systems International (AUVSI), the world's largest nonprofit organization dedicated to the advancement of unmanned systems and robotics, represents corporations and professionals from more than 60 countries involved in industry, government and academia. AUVSI members work in the defense, civil and commercial markets. Visit AUVSI at [www.auvsi.org](https://www.auvsi.org/).
+UAV Team General meetings are held over Zoom on **Wednesday's at 8:00PM CST** and in **Nebraska Hall W347**. The UNL Aerospace Club Lab is located at **Nebraska Hall W127**.
 
-The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
+Join Zoom Meeting
+[https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
+Meeting ID: 986 1496 2923
+
+[![https://unl.zoom.us/j/98614962923](res/img/join_button.png)](https://unl.zoom.us/j/98614962923)
+
+If you would like to join the team, please reach out to one of our members ont the [Contact Us](contact.md) page. 
 
 ***
 
@@ -32,7 +31,30 @@ The IARC is the longest running collegiate aerial robotics competition in the wo
 	* Physical obstacles
 4. Conduct the mission successfully (replace the module and return home) under 9 minutes
 
-A link to the AUVSI IARC Mission 9 rules can be found here:  [MISSION 9 RULES](http://www.aerialroboticscompetition.org/rules.php)
+A detailed arena layout of the course can be seen in the image below.
+
+![](res/img/mission_9_course.png)
+
+A link to the AUVSI IARC Mission 9 rules can be found under the [resources](resources.md) page.
+
+***
+
+## What is AUVSI IARC
+![](res/img/iarc_logo.png)
+
+The Association for Unmanned Vehicle Systems International (AUVSI), the world's largest nonprofit organization dedicated to the advancement of unmanned systems and robotics, represents corporations and professionals from more than 60 countries involved in industry, government and academia. AUVSI members work in the defense, civil and commercial markets. Visit AUVSI at [www.auvsi.org](https://www.auvsi.org/).
+
+The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
+
+
+***
+
+## Contact Us
+If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [Contact Page](contact.md) or [People Page](people.md).
+
+***
+
+![](res/img/drones.png)
 
 ***
 
