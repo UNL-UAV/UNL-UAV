@@ -14,9 +14,6 @@
 
 UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer Engineering. Contact by email at [Ahossack2@unl.edu](mailto:ahossack2@unl.edu).
 
-***
-
-### Team Leads
 
 <center>
 
@@ -29,6 +26,8 @@ UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer
 Grace is a senior getting her bachelor’s in civil engineering. As the Systems Engineer, she bridges the gap between software and hardware; making sure both teams are adhering to criteria and constraints and creating designs and architecture that are realistic to integrate and execute. She also pushes the schedule to make sure design milestones are met at a pace that shows progress. Contact by email at [grace.becker@huskers.unl.edu](mailto:grace.becker@huskers.unl.edu).
 
 ***
+
+### Team Leads
 
 <center>
 
