@@ -14,17 +14,6 @@
 
 UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer Engineering. Contact by email at [Ahossack2@unl.edu](mailto:ahossack2@unl.edu).
 
-
-<center>
-
-#### ** Khawm Mung - Director of Development **
-
-![](res/img/people/mung_face.jpg){: style="width:150px"}
-
-</center>
-
-Works with the administrative side and team development. Responsible for maintaining budget, membership requirements, and technical details for sponsorship such as NASA NE Space Grant. Contact by email at [khawm.mung@huskers.unl.edu](mailto:khawm.mung@huskers.unl.edu).
-
 ***
 
 ### Team Leads
@@ -111,4 +100,3 @@ Unmanned aircraft systems, or drones are no longer toys or hobby, these are now 
 </center>
 
 I am a senior, majoring in Mechanical Engineering at the University of Nebraska-Lincoln. I am an engineer for the hardware team. My job is to design and manufacture the manipulator system, especially the Gripper. I make 3D models of the system using AutoCAD, Solidworks and Autodesk Inventor. I have great passion for Manufacturing. I have had three technical internships, related to manufacturing, over my undergraduate course. I plan to graduate in Fall 2020, and work with my family thereafter.
-
