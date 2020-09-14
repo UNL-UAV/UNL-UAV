@@ -7,6 +7,7 @@ Please note, general meetings are held over Zoom on **Wednesday's at 8:00PM CST*
 Join Zoom Meeting
 [https://unl.zoom.us/j/98614962923](https://unl.zoom.us/j/98614962923)
 Meeting ID: 986 1496 2923
+
 [![https://unl.zoom.us/j/98614962923](res/img/join_button.png)](https://unl.zoom.us/j/98614962923)
 
 **For any additional questions, please check out the [Contact Us](contact.md) page!**
@@ -54,7 +55,7 @@ IARC Mission 9 has challenged us to build and program a fully autonomous aerial 
 
 ## Administrative
 
-**Unless specified, all forms should be send via email to one of the team leads from the [Contact Us](contact.md) page!**
+**Unless specified, all forms should be send via email to the [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Administrative Forms) email**
 
 ### Dues
 Dues are $20 and can be directly paid to the club treasurer, or any one of the team leads. Contact Khawm Mung on the [People](people.md) page. Cash is preferred.

@@ -1,10 +1,12 @@
 # People
 
-## Admins
+## 2019-2020 Roster
+
+### Admins
 
 <center>
 
-### ** Andrew Hossack - President **
+#### ** Andrew Hossack - President **
 
 ![](res/img/people/andrew_face.jpg){: style="width:150px"}
 
@@ -15,11 +17,7 @@ UNL Aerospace UAV IARC Team President. I am currently a Junior studying Computer
 
 <center>
 
-## Team Leads
-
-<center>
-
-### ** Grace Becker - Systems Engineering **
+#### ** Grace Becker - Systems Engineering **
 
 ![](res/img/people/grace_becker.png){: style="width:150px"}
 
@@ -29,9 +27,11 @@ Grace is a senior getting her bachelor’s in civil engineering. As the Systems 
 
 ***
 
+### Team Leads
+
 <center>
 
-### ** Gerson Uriarte - Software Team Lead **
+#### ** Gerson Uriarte - Software Team Lead **
 
 ![](res/img/people/gerson_face.png){: style="width:150px"}
 
@@ -42,7 +42,7 @@ Pursuing a Bachelor of Science in Computer Engineering and pre-med status. Work 
 
 <center>
 
-### ** Zury Vasquez - Hardware Team Lead **
+#### ** Zury Vasquez - Hardware Team Lead **
 
 ![](res/img/people/zury_face.jpg){: style="width:150px"}
 
@@ -53,7 +53,7 @@ My name is Zury and in a senior electrical engineering student. I work as a hard
 
 <center>
 
-### ** Ryan Karl - Electrical Team Lead **
+#### ** Ryan Karl - Electrical Team Lead **
 
 ![](res/img/people/ryan_face.jpg){: style="width:150px"}
 
@@ -63,10 +63,10 @@ Ryan is a sophomore electrical engineer at the University of Nebraska-Lincoln. H
 
 ***
 
-## Members
+### Members
 <center>
 
-### ** Timothy Gibbons - Software Developer **
+#### ** Timothy Gibbons - Software Developer **
 
 ![](res/img/people/timothy_face.png){: style="width:150px"}
 
@@ -81,7 +81,7 @@ Systems administrator and command-line guru. Tim is responsible for maintenance 
 
 <center>
 
-### ** Pradhyun Kashyap - Remote Pilot and Support **
+#### ** Pradhyun Kashyap - Remote Pilot and Support **
 
 ![](res/img/people/kashyap_face.png){: style="width:150px"}
 
@@ -92,7 +92,7 @@ Unmanned aircraft systems, or drones are no longer toys or hobby, these are now 
 
 <center>
 
-### ** Akshay Bhandari - Hardware Engineer **
+#### ** Akshay Bhandari - Hardware Engineer **
 
 ![](res/img/people/akshay_face.jpg){: style="width:150px"}
 
