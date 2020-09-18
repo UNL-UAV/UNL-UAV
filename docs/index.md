@@ -5,13 +5,14 @@
 
 UNL Aerospace UAV IARC Team is a student-led aerospace design team operating under the [UNL Aerospace Student Organization](http://unlaero.space/). 
 
-We are focused on designing and building an autonomous drone and robotic manipulation system payload capable of accomplishing the AUVSI IARC Mission 9 directives.
+We are focused on designing and building an autonomous drone and robotic manipulation system payload capable of accomplishing the [AUVSI IARC](#what-is-auvsi-iarc) [Mission 9 Objectives](#mission-9-objective).
 
 ![](res/img/drone_main.jpg)
 
 ***
 
 ## Mission 9 Objective
+
 1. Fly fully autonomous
 2. Use ONBOARD computing (no data links except for kill switch and safety pilot override)
 3. Avoid obstacles including:
@@ -23,7 +24,7 @@ A detailed arena layout of the course can be seen in the image below.
 
 ![](res/img/mission_9_course.png)
 
-A link to the AUVSI IARC Mission 9 rules can be found under the [resources](resources.md) page.
+A link to the AUVSI IARC Mission 9 rules can be found [here](http://www.aerialroboticscompetition.org/rules.php).
 
 ***
 
