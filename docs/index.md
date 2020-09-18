@@ -11,6 +11,15 @@ We are focused on designing and building an autonomous drone and robotic manipul
 
 ***
 
+## What is AUVSI IARC
+![](res/img/iarc_logo.png)
+
+The Association for Unmanned Vehicle Systems International (AUVSI), the world's largest nonprofit organization dedicated to the advancement of unmanned systems and robotics, represents corporations and professionals from more than 60 countries involved in industry, government and academia. AUVSI members work in the defense, civil and commercial markets. Visit AUVSI at [www.auvsi.org](https://www.auvsi.org/).
+
+The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
+
+***
+
 ## Mission 9 Objective
 
 _Please visit [Mission 9 Rules](rules.md) page for more information on this section._
@@ -22,21 +31,7 @@ _Please visit [Mission 9 Rules](rules.md) page for more information on this sect
 	* Physical obstacles
 4. Conduct the mission successfully (replace the module and return home) under 9 minutes
 
-A detailed arena layout of the course can be seen in the image below.
-
-![](res/img/mission_9_course.png)
-
 A link to the AUVSI IARC Mission 9 rules can be found [here](http://www.aerialroboticscompetition.org/rules.php).
-
-***
-
-## What is AUVSI IARC
-![](res/img/iarc_logo.png)
-
-The Association for Unmanned Vehicle Systems International (AUVSI), the world's largest nonprofit organization dedicated to the advancement of unmanned systems and robotics, represents corporations and professionals from more than 60 countries involved in industry, government and academia. AUVSI members work in the defense, civil and commercial markets. Visit AUVSI at [www.auvsi.org](https://www.auvsi.org/).
-
-The IARC is the longest running collegiate aerial robotics competition in the world, challenging competing teams to develop robotic aerial systems considered impossible for any robots currently owned by government or industry. The IARC proceeds in a series of 'missions', with teams continuing to attempt a particular mission for multiple years until one team succeeds and a new mission is started. Visit the IARC challenge at [www.aerialroboticscompetition.org](http://www.aerialroboticscompetition.org/).
-
 
 ***
 
