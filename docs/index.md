@@ -11,14 +11,6 @@ We are focused on designing and building an autonomous drone and robotic manipul
 
 ***
 
-## Getting Involved
-
-For more information on how to get involved as a member, please visit the [Getting Started](welcome.md) page. For [Sponsorship](sponsors.md), PR and Marketing inquiries, contact us directly at [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Sponsorship Inquiry). 
-
-For all other questions, please visit the [Contact Us](contact.md) page for more information.
-
-***
-
 ## Mission 9 Objective
 1. Fly fully autonomous
 2. Use ONBOARD computing (no data links except for kill switch and safety pilot override)
@@ -46,9 +38,11 @@ The IARC is the longest running collegiate aerial robotics competition in the wo
 ***
 
 ## Contact Us
-If you are interested in collaborating, or have questions, feel free to reach out to one of us. Contact information for members can be found on the [Contact Page](contact.md) or [People Page](people.md).
+If you are interested in collaborating, or have questions, feel free to reach out to one of our members. Contact information for our team can be found on the [Contact Page](contact.md) or [People Page](people.md).
 
-You can also reach out to us at [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Website Questions).
+For [Sponsorship](sponsors.md), PR and Marketing inquiries, contact us directly at [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Sponsorship Inquiry). 
+
+***To get involved, or for more information, please visit the [Getting Started](welcome.md) page.***
 
 ***
 
