@@ -31,5 +31,3 @@ Please email [aerospace-uav@unl.edu](mailto:aerospace-uav@unl.edu?subject=Websit
 
 ## Systems Engineering
 [Grace Becker](../people/#grace-becker-systems-engineering)
-
-***
