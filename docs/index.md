@@ -13,6 +13,8 @@ We are focused on designing and building an autonomous drone and robotic manipul
 
 ## Mission 9 Objective
 
+_Please visit [Mission 9 Rules](rules.md) page for more information on this section._
+
 1. Fly fully autonomous
 2. Use ONBOARD computing (no data links except for kill switch and safety pilot override)
 3. Avoid obstacles including:
