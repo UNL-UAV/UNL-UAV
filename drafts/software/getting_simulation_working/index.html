@@ -9,29 +9,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <meta name="description" content="UNL Aerospace UAV IARC Team Page">
   
   
   
-  <link rel="shortcut icon" href="../../img/favicon.svg">
-  <title>Home - UNL UAV Team
+  <link rel="shortcut icon" href="../../../img/favicon.svg">
+  <title>Getting the simulation working - Home - UNL UAV Team
   </title>
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
-  <link rel="stylesheet" href="../../css/theme.css" />
-  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="../../../css/theme.css" />
+  <link rel="stylesheet" href="../../../css/theme_extra.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Software";
-    var mkdocs_page_input_path = "drafts/software/index.md";
+    var mkdocs_page_name = "Getting the simulation working";
+    var mkdocs_page_input_path = "drafts/software/getting_simulation_working.md";
     var mkdocs_page_url = null;
   </script>
   
-  <script src="../../js/jquery-2.1.1.min.js" defer></script>
-  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="../../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../../js/modernizr-2.8.3.min.js" defer></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
   
@@ -47,9 +46,9 @@
         <div class="wy-side-nav-search">
           <img style="display: inline-block; margin: auto; border-radius: 0%; width: 200px; height: 85px;"
             src="/img/logo_no_text.png" alt="Home" />
-          <a href="../.." class="icon icon-home"> Home - UNL UAV Team</a>
+          <a href="../../.." class="icon icon-home"> Home - UNL UAV Team</a>
           <div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+  <form id ="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
@@ -59,31 +58,31 @@
           <p class="caption"><span class="caption-text">About Us</span></p>
           <ul>
             <li class="toctree-l1">
-    <a class="" href="../../welcome/">Getting Started</a>
+    <a class="" href="../../../welcome/">Getting Started</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../people/">People</a>
+    <a class="" href="../../../people/">People</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../teams/">Teams</a>
+    <a class="" href="../../../teams/">Teams</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../sponsors/">Sponsors</a>
+    <a class="" href="../../../sponsors/">Sponsors</a>
             </li>
             </ul>
           <p class="caption"><span class="caption-text">More Info</span></p>
           <ul>
             <li class="toctree-l1">
-    <a class="" href="../../rules/">Mission 9 Rules</a>
+    <a class="" href="../../../rules/">Mission 9 Rules</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../contact/">Contact Us</a>
+    <a class="" href="../../../contact/">Contact Us</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../resources/">Resources</a>
+    <a class="" href="../../../resources/">Resources</a>
             </li>
             <li class="toctree-l1">
-    <a class="" href="../../credits/">Credits</a>
+    <a class="" href="../../../credits/">Credits</a>
             </li>
             </ul>
         </div>
@@ -95,7 +94,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="../..">Home - UNL UAV Team</a>
+        <a href="../../..">Home - UNL UAV Team</a>
       </nav>
 
       
@@ -103,11 +102,11 @@
         <div class="rst-content">
           <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="../..">Docs</a> &raquo;</li>
+    <li><a href="../../..">Docs</a> &raquo;</li>
     
       
     
-    <li>Software</li>
+    <li>Getting the simulation working</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -117,18 +116,29 @@
           <div role="main">
             <div class="section">
               
-              <h1 id="software">Software</h1>
-<p>Welcome to the software section!</p>
-<h2 id="table-of-contents">Table of Contents</h2>
+              <h1 id="getting-the-simulation-working">Getting the simulation working</h1>
+<p>If you're here you're trying to get simulation working on the UAV machine. </p>
+<h2 id="what-you-will-need">What you will need</h2>
 <ul>
-<li>Meet the Team</li>
-<li>FAQ</li>
-<li>Resources</li>
-<li>C++</li>
-<li>Premake</li>
-<li>MavLink</li>
-<li>RoS</li>
+<li><a href="PX4 Gazebo">https://github.com/PX4/PX4-Autopilot</a></li>
+<li><a href="Ardupilot Gazebo">https://github.com/khancyr/ardupilot_gazebo</a> and <a href="Ardupilot">https://github.com/ArduPilot/ardupilot</a></li>
 </ul>
+<h2 id="first-time-set">First time set</h2>
+<ol>
+<li>Build PX4 or Ardupilot gazebo plugins</li>
+</ol>
+<h2 id="running-simulation">Running simulation</h2>
+<ol>
+<li>run <code>roscore</code></li>
+<li>Run gazebo plugin</li>
+<li>PX4: <code>roslaunch px4 mavros_posix_sitl.launch</code></li>
+<li>Ardupilot:<ul>
+<li>Terminal 1: <code>gazebo --verbose ardupilot_gazebo/worlds/iris_arducopter_runway.world</code></li>
+<li>Terminal 2: <code>cd ardupilot/ArduCopter &amp;&amp; ./../Tools/autotest/sim_vehicle.py -f gazebo-iris --console --map</code></li>
+</ul>
+</li>
+<li>Run Application</li>
+</ol>
               
             </div>
           </div>
@@ -164,9 +174,9 @@
       
     </span>
 </div>
-  <script>var base_url = '../..';</script>
-  <script src="../../js/theme.js" defer></script>
-  <script src="../../search/main.js" defer></script>
+  <script>var base_url = '../../..';</script>
+  <script src="../../../js/theme.js" defer></script>
+  <script src="../../../search/main.js" defer></script>
   <script defer>
     window.onload = function () {
       SphinxRtdTheme.Navigation.enable(false);
@@ -176,8 +186,3 @@
 </body>
 
 </html>
-
-<!--
-MkDocs version : 1.0.4
-Build Date UTC : 2021-10-03 22:51:30
--->
