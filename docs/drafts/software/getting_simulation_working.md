@@ -3,7 +3,8 @@
 If you're here you're trying to get simulation working on the UAV machine. 
 
 ## What you will need
-(https://github.com/PX4/PX4-Autopilot)[PX4 Gazebo] or (https://github.com/khancyr/ardupilot_gazebo)[Ardupilot Gazebo]
+* [https://github.com/PX4/PX4-Autopilot](PX4 Gazebo)
+* [https://github.com/khancyr/ardupilot_gazebo](Ardupilot Gazebo) and [https://github.com/ArduPilot/ardupilot](Ardupilot)
 
 ## First time set
 1. Build PX4 or Ardupilot gazebo plugins
