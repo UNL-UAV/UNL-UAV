@@ -24,8 +24,8 @@
       <p>{{ config.copyright }} &copy; </p>
     {% endif %}
 
-    {% if page and page.meta.revision_date %}
-      Updated {{ page.meta.revision_date.strftime('%F') }}
+    {% if page and page.meta.revision_date and false %}
+    	Updated {{ page.meta.revision_date.strftime('%F') }}
     {% endif %}
 
   </div>
